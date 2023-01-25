@@ -5,7 +5,6 @@ def str_up(str):
     """
     return str.upper()
 
-
 def str_word_up(str):
     """
     Функция выполняет перевод первых символов в словах - в верхний регистр
